@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-87.3593, 35.001857],
+              [-85.6067, 34.9844],
+              [-85.431, 32.8265],
+              [-87.0427, 32.6441],
+              [-87.3593, 35.001857]
+            ]
+          ]
+        },
+        "properties": {
+          "state": "Alabama",
+          "obesity_rate": 32.1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-131.602021, 55.117982],
+              [-131.569159, 55.28229],
+              [-131.355558, 55.183705],
+              [-131.38842, 54.914309],
+              [-131.602021, 55.117982]
+            ]
+          ]
+        },
+        "properties": {
+          "state": "Alaska",
+          "obesity_rate": 29.5
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-109.0452, 31.332177],
+              [-106.5075, 31.331841],
+              [-106.6345, 30.3992],
+              [-109.0474, 30.3735],
+              [-109.0452, 31.332177]
+            ]
+          ]
+        },
+        "properties": {
+          "state": "Texas",
+          "obesity_rate": 34.8
+        }
+      }
+
+    ]
+  }
